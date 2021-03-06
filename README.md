@@ -1,4 +1,4 @@
-# bakery--launch
+# bakery-launch
 
 DApp that allows people to use Bakery on Polkadot
 
